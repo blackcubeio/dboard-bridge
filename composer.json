@@ -21,7 +21,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^8.2",
-        "blackcube/dboard": "^1.0",
+        "blackcube/dboard": "@dev",
         "blackcube/yii-assets": "^1.0",
         "httpsoft/http-message": "^1.1",
         "yiisoft/config": "^1.6",
